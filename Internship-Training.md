@@ -26,7 +26,7 @@ The training program will be held at our Software Development Centre, which is e
 
 Interested candidates can apply through the following registration form by  11:30 AM of 20th  May, 2023:
 
-https://forms.gle/SXgL5S3aAoFRMNUZ6
+[https://forms.gle/SXgL5S3aAoFRMNUZ6](https://forms.gle/SXgL5S3aAoFRMNUZ6)
 
 Internship is available in following options:
 
