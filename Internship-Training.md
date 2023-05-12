@@ -7,7 +7,8 @@
 ## About SDC
 Software Development Centre (SDC) undertakes development of real industrial projects, software as a product and software as a service, and gives exposure of real software development to the students.
 
-Internship in the area of Industry 4.0 / Software Development
+# Internship in the area of Industry 4.0 / Software Development
+
 Software Development Centre is offering four weeks and six-month industrial training/internship opportunities for students from any discipline who are interested in gaining practical experience in software development.
 
 During the training program, trainees will have the opportunity to work with experienced software developers and learn about different aspects of software development including software design, coding, testing, and deployment. This program is also beneficial for those students who are interested in learning about the latest technologies and tools for developing applications without the need for extensive coding skills. Trainees will also have the chance to work on real-world projects undertaken by SDC in the area of:
