@@ -42,6 +42,11 @@ Note: There is no Registration Fee to apply for this training. Students will be 
 1. GNDEC Students - Rs. 2000/-
 1. Candidates/Students other than GNDEC: Rs. 4000/-
 
+## Fee for the six weeks training is:
+
+1. GNDEC Students - Rs. 3000/-
+1. Candidates/Students other than GNDEC: Rs. 6000/-
+
 ## Fee for the Six Months training is:
 
 1. GNDEC Students - Rs. 7000/-
