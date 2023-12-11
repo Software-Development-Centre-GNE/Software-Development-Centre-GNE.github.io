@@ -24,7 +24,7 @@ The training program will be held at our Software Development Centre, which is e
 
 ## Registration Details
 
-Interested candidates can apply through the following registration form by  11:30 AM of ~20th  May, 2023~ 08th  JUne, 2023:
+Interested candidates can apply through the following registration form by 11:30 AM of 29th Dec 2023:
 
 [https://forms.gle/SXgL5S3aAoFRMNUZ6](https://forms.gle/SXgL5S3aAoFRMNUZ6)
 
