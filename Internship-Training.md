@@ -39,18 +39,18 @@ Note: There is no Registration Fee to apply for this training. Students will be 
 
 ## Fee for the four weeks training is:
 
-1. GNDEC Students - Rs. 2000/-
-1. Candidates/Students other than GNDEC: Rs. 4000/-
+1. GNDEC Students - Rs. 3,000/-
+1. Candidates/Students other than GNDEC: Rs. 5,000/-
 
 ## Fee for the six weeks training is:
 
-1. GNDEC Students - Rs. 3000/-
-1. Candidates/Students other than GNDEC: Rs. 6000/-
+1. GNDEC Students - Rs. 4,000/-
+1. Candidates/Students other than GNDEC: Rs. 7,000/-
 
 ## Fee for the Six Months training is:
 
-1. GNDEC Students - Rs. 7000/-
-1. Candidates/Students other than GNDEC: Rs. 14000/-
+1. GNDEC Students - Rs. 10,000/-
+1. Candidates/Students other than GNDEC: Rs. 15,000/-
 
 Trainees who successfully complete the training at SDC will receive a Training Completion Certificate. Depending on their performance during the training and evaluation test/practical demonstration, trainees enrolled in the 4-week training program may be eligible for a full fee refund, while those enrolled in the 6-month training program may be eligible for a stipend or internship.
 
